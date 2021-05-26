@@ -1,3 +1,4 @@
 # XAI 정리
 
-1) PDP, ICE, ALE
+## Model-Agnostic Methods
+1) Graphic: PDP, ICE, ALE
