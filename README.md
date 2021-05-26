@@ -1,3 +1,3 @@
-#XAI 정리
+# XAI 정리
 
 1) PDP, ICE, ALE
